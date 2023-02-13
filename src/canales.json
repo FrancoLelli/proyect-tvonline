@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nombre": "Tele Antequera",
+        "link": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8",
+        "img" : "https://i.imgur.com/skXiSaf.png"
+    },
+    {
+        "id": "2",
+        "nombre": "TDC",
+        "link": "https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8",
+        "img" : "https://i.imgur.com/nPG38B2.png"
+    },
+    {
+        "id": "3",
+        "nombre": "Telefe",
+        "link": "https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
+    },
+    {
+        "id": "4",
+        "nombre": "America",
+        "link": "https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+    },
+    {
+        "id": "5",
+        "nombre": "TyC Sports",
+        "link": "https://blackface.world/dtvpl.html?id=1153",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png"
+    }
+]
